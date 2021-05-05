@@ -1,0 +1,3 @@
+#include "3-shellcode-variation-resource.h"
+
+CALC_BIN_BMP RCDATA calc.bmp
